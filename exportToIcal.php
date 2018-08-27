@@ -7,10 +7,10 @@
  * If you don't use POSTGRESQL as you DB, change the query functions to match *
  * the one you use.                                                           *
  * For more info on iCalendar Standard, go to: http://icalendar.org           *
- * Also: https://en.wikipedia.org/wiki/ICalendar
+ * Also: https://en.wikipedia.org/wiki/ICalendar                              *
  * The use of this template is your responsability.                           *    
- * Thank you for using it.
- *                                                     *                                   
+ * Thank you for using it.                                                    *
+ *                                                                            *                                   
  * @author: Gustavo H. Leal                                                   *
  *                                                                            *
  ******************************************************************************/
